@@ -173,7 +173,7 @@ Style/RedundantReturn:
 Style/IfUnlessModifier:
   Enabled: false
 
-# and and or is okay
+# and & or is okay
 Style/AndOr:
   Enabled: true
   EnforcedStyle: conditionals
