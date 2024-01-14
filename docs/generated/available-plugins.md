@@ -49334,7 +49334,7 @@ Auto generated, please only modify https://github.com/fastlane/fastlane/blob/mas
     <tr>
       <td><strong>bmdistribution</strong></td>
       <td>-</td>
-      <td>Distributes an app version via firebase, testflight, browsertack or the play store.</td>
+      <td>Distributes an app version via firebase, testflight, browserstack or the play store.</td>
     </tr>
     <tr>
       <td><strong>bmbuild</strong></td>
