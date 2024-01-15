@@ -38,7 +38,7 @@ install_on_device(
 
 Key | Description | Default
 ----|-------------|--------
-  `extra` | Extra Commandline arguments passed to ios-deploy | 
+  `extra` | Extra Command-line arguments passed to ios-deploy | 
   `device_id` | id of the device / if not set defaults to first found device | 
   `skip_wifi` | Do not search for devices via WiFi | 
   `ipa` | The IPA file to put on the device | [*](#parameters-legend-dynamic)
