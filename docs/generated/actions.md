@@ -302,7 +302,7 @@ Action | Description | Supported Platforms
 <a href="/actions/copy_artifacts/">copy_artifacts</a> | Copy and save your build artifacts (useful when you use reset_git_repo) | ios, android, mac
 <a href="/actions/prompt/">prompt</a> | Ask the user for a value or for confirmation | ios, android, mac
 <a href="/actions/reset_simulator_contents/">reset_simulator_contents</a> | Shutdown and reset running simulators | ios
-<a href="/actions/restore_file/">restore_file</a> | This action restore your file that was backuped with the `backup_file` action | ios, android, mac
+<a href="/actions/restore_file/">restore_file</a> | This action restore your file that was backed-up with the `backup_file` action | ios, android, mac
 <a href="/actions/say/">say</a> | This action speaks the given text out loud | ios, android, mac
 <a href="/actions/zip/">zip</a> | Compress a file or folder to a zip | ios, android, mac
 <a href="/actions/danger/">danger</a> | Runs `danger` for the project | ios, android, mac

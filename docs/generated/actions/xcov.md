@@ -58,7 +58,7 @@ Key | Description | Default
   `ignore_file_path` | Relative or absolute path to the file containing the list of ignored files | [*](#parameters-legend-dynamic)
   `include_test_targets` | Enables coverage reports for .xctest targets | `false`
   `exclude_targets` | Comma separated list of targets to exclude from coverage report | 
-  `include_targets` | Comma separated list of targets to include in coverage report. If specified then exlude_targets will be ignored | 
+  `include_targets` | Comma separated list of targets to include in coverage report. If specified then exclude_targets will be ignored | 
   `only_project_targets` | Display the coverage only for main project targets (e.g. skip Pods targets) | `false`
   `disable_coveralls` | Add this flag to disable automatic submission to Coveralls | `false`
   `coveralls_service_name` | Name of the CI service compatible with Coveralls. i.e. travis-ci. This option must be defined along with coveralls_service_job_id | 

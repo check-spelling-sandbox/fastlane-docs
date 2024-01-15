@@ -30,7 +30,7 @@ update_project_team
 ```ruby
 update_project_team(
   path: "Example.xcodeproj",
-  teamid: "A3ZZVJ7CNY"
+  team_id: "A3ZZVJ7CNY"
 )
 ```
 
@@ -44,7 +44,7 @@ Key | Description | Default
 ----|-------------|--------
   `path` | Path to your Xcode project | [*](#parameters-legend-dynamic)
   `targets` | Name of the targets you want to update | 
-  `teamid` | The Team ID you want to use | [*](#parameters-legend-dynamic)
+  `team_id` | The Team ID you want to use | [*](#parameters-legend-dynamic)
 
 <em id="parameters-legend-dynamic">* = default value is dependent on the user's system</em>
 
